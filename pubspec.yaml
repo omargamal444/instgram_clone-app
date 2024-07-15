@@ -34,7 +34,7 @@ dependencies:
   firebase_core:
   google_sign_in:
   cloud_firestore:
-  get: ^4.1.2
+  get: ^4.6.6
   hive:
   hive_flutter:
   cupertino_icons: ^1.0.2
@@ -46,6 +46,8 @@ dependencies:
   hive_generator:
   build_runner:
   firebase_app_check:
+  dev: ^1.0.0
+  flutter_lints: ^4.0.0
 flutter:
 
   # The following line ensures that the Material Icons font is
